@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miirshe</h1>
+<h5>I`m web developer with two years of professional experience. Proficient in front-end and back-end development, with a strong understanding of web technologies and best practices. Detail-oriented and collaborative, able to effectively communicate with clients and team members to deliver high-quality results. Committed to staying up-to-date with the latest industry trends and continuously expanding knowledge and skills.</h5>
 <h3 align="center">A passionate frontend developer from Somalia</h3>
 
 - 🔭 I’m currently working on **FrontEnd developer**
