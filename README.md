@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Miirshe](https://github.com/Miirshe)
 
-- 💬 Ask me about **HTML , CSS , Js, Java & some React Js**
+- 💬 Ask me about **HTML , CSS , Js, Java & React Js , Node Js , PHP , Flatter **
 
 - 📫 How to reach me **miirshe@gmail.com**
 
