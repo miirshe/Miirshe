@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miirshe</h1>
-<h3 align="center">I`m web developer with two years of professional experience. Proficient in front-end and back-end development, with a strong understanding of web technologies and best practices. Detail-oriented and collaborative, able to effectively communicate with clients and team members to deliver high-quality results. Committed to staying up-to-date with the latest industry trends and continuously expanding knowledge and skills</h3>
+<h1 align="center">I`m web developer with two years of professional experience. Proficient in front-end and back-end development, with a strong understanding of web technologies and best practices. Detail-oriented and collaborative, able to effectively communicate with clients and team members to deliver high-quality results. Committed to staying up-to-date with the latest industry trends and continuously expanding knowledge and skills</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miirshe&label=Profile%20views&color=0e75b6&style=flat" alt="miirshe" /> </p>
 
