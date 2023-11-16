@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **mern stack developer**
 
-- 🌱 I’m currently learning **C++ , Dart , Flutter , Arduino**
+- 🌱 I’m currently learning ** Python(DSA) , Dart , Flutter , Arduino**
 
 - 👯 I’m looking to collaborate on **Web developer & System development**
 
