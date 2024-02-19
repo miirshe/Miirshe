@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Miirshe</h1>
-<h1>BIO:</h1>
+<h2>Hi 👋, I'm Miirshe</h2>
+<h2>BIO:</h2>
 <p>
   I am a MERN stack developer. Proficient in both front-end and back-end development, I possess a deep understanding of web technologies and adhere to best practices. Detail-oriented and collaborative. Committed to continuous learning, I stay abreast of the latest industry trends to enhance my skills and capabilities.
 </p>
