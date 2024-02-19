@@ -8,7 +8,7 @@
 
 | |                       |                                                           |
 |-|-----------------------|-----------------------------------------------------------|
-|🖥| **Operating System** | macOS                                                     |
+|🖥| **Operating System** | Window                                                     |
 |📺| **Terminal**        | [PowerShell](https://github.com/PowerShell)               |
 |📝| **Editor**          | [Visual Studio Code](https://github.com/Microsoft/vscode) |
 
