@@ -3,6 +3,7 @@
 <p>
   I am a MERN stack developer. Proficient in both front-end and back-end development, I possess a deep understanding of web technologies and adhere to best practices. Detail-oriented and collaborative. Committed to continuous learning, I stay abreast of the latest industry trends to enhance my skills and capabilities.
 </p>
+
 - 🔭 I’m currently working on **MERN stack developer**
 
 - 🌱 I’m currently learning ** Python(DSA) , Dart , Flutter , Arduino**
