@@ -45,6 +45,6 @@ Passionate about crafting **seamless user experiences** and architecting robust 
 I'm always excited about **collaborations**, **open-source contributions**, and **new projects**. 🚀  
 
 - 📫 **Email:** miirshe@gmail.com 📧  
-- 🔗 **Portfolio:** [Your Portfolio Link] 🌐  
-- 🐦 **Twitter/X:** [Your Twitter Handle] 🐤  
-- 👔 **LinkedIn:** [Your LinkedIn Profile] 🔗  
+- 🔗 **Portfolio:** https://miirshe.vercel.app/ 🌐  
+- ⌚ **Twitter/X:** https://wakatime.com/@miirshe 🐤  
+- 👔 **LinkedIn:** https://www.linkedin.com/in/miirshe/ 🔗  
