@@ -46,5 +46,5 @@ I'm always excited about **collaborations**, **open-source contributions**, and 
 
 - 📫 **Email:** miirshe@gmail.com 📧  
 - 🔗 **Portfolio:** https://miirshe.vercel.app/ 🌐  
-- ⌚ **Twitter/X:** https://wakatime.com/@miirshe 🐤  
+- ⌚ **Wakatime:** https://wakatime.com/@miirshe 🐤  
 - 👔 **LinkedIn:** https://www.linkedin.com/in/miirshe/ 🔗  
