@@ -14,12 +14,16 @@ Passionate about crafting **seamless user experiences** and architecting robust 
 - **React Native** 📱 with **NativeWind** 🌬️ for mobile app development  
 - **UI/UX Libraries:** Shadcn UI 🖌️, Bootstrap 🎨, Material-UI 🌟, Tailwind CSS 🌪️  
 
+### 🔧 State Management:  
+- **Redux Toolkit** 🗂️, **RTK Query** 📡, **Zustand** 🐻  
+
 ### ⚙️ Backend:  
 - **Node.js** 🚀, **Express.js** 🛣️  
 - **NestJS** 🛡️ with **Microservices** (HTTP & gRPC) 🔗  
 
-### 🗄️ Databases:  
-- **MongoDB** 🍃, **Firebase** 🔥  
+### 🗄️ Databases & ORMs:  
+- **MongoDB** 🍃, **Firebase** 🔥, **MySQL** 🐬, **PostgreSQL** 🐘  
+- **ORM Tools:** **Mongoose** 🗃️, **Prisma** 📊, **Sequelize** 🔧  
 
 ### 🚀 Version Control & Deployment:  
 - **Git** 🧰, **GitHub** 🐙, **Vercel** ▲, **Netlify** ☁️  
@@ -31,7 +35,7 @@ Passionate about crafting **seamless user experiences** and architecting robust 
 - ✅ **Frontend Development:** Creating responsive, interactive, and mobile-friendly UIs.  
 - ✅ **Backend Development:** Building APIs with Node.js, Express.js, and NestJS.  
 - ✅ **Microservices Architecture:** Developing scalable systems using HTTP & gRPC.  
-- ✅ **Database Management:** Designing and maintaining NoSQL databases.  
+- ✅ **Database Management:** Designing and maintaining NoSQL and SQL databases.  
 - ✅ **Mobile Development:** Building cross-platform apps with React Native.  
 - ✅ **Deployment & CI/CD:** Ensuring seamless delivery through Vercel, Netlify, and GitHub Actions.  
 
@@ -40,7 +44,7 @@ Passionate about crafting **seamless user experiences** and architecting robust 
 ## 🌟 Let’s Connect!  
 I'm always excited about **collaborations**, **open-source contributions**, and **new projects**. 🚀  
 
-- 📫 **Email:** [Your Email Address] 📧  
+- 📫 **Email:** miirshe@gmail.com 📧  
 - 🔗 **Portfolio:** [Your Portfolio Link] 🌐  
 - 🐦 **Twitter/X:** [Your Twitter Handle] 🐤  
 - 👔 **LinkedIn:** [Your LinkedIn Profile] 🔗  
