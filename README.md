@@ -46,9 +46,9 @@ Passionate about crafting **seamless user experiences** and architecting robust 
 
 | |                       |                                                           |
 |-|-----------------------|-----------------------------------------------------------|
-|🖥| **Operating System** | Window, macOS, and Linux                                                     |
+|🖥| **Operating System** | Window, macOS, and Linux                                  |
 |📺| **Terminal**        | [PowerShell](https://github.com/PowerShell)               |
-|📝| **Editor**          | [Visual Studio Code](https://github.com/Microsoft/vscode) |
+|📝| **Editor**          | Vscode, Windsurf                                          |
 
 ## 🌟 Let’s Connect!  
 I'm always excited about **collaborations**, **open-source contributions**, and **new projects**. 🚀  
